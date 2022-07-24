@@ -1,3 +1,3 @@
 export function bootstrap() {
-  return null;
+  console.log("");
 }

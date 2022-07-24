@@ -16,9 +16,8 @@ module.exports = withBundleAnalyzer({
       'transitivebullsh.it',
       'cdn.com',
       'cloudflare.com',
+      'publit.io'
     ],
-    path: "https://cdn.com/_next/image",
-    loader: "custom" ,
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
