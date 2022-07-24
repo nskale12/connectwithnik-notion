@@ -13,8 +13,11 @@ module.exports = withBundleAnalyzer({
       'pbs.twimg.com',
       'abs.twimg.com',
       's3.us-west-2.amazonaws.com',
-      'transitivebullsh.it'
+      'transitivebullsh.it',
+      'cdn.com',
+      'cloudflare.com',
     ],
+    path: "https://cdn.com/_next/image",
     loader: "custom" ,
     formats: ['image/avif', 'image/webp', 'image/jpeg', 'image/png'],
     dangerouslyAllowSVG: true,
