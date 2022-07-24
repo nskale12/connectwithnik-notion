@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'dabbleintech',
   //github: 'nskale12',
   //linkedin: 'nikkale',
-  newsletter: 'subscribe.dabbleintech.com', // optional newsletter URL
+  newsletter: 'https://subscribe.dabbleintech.com', // optional newsletter URL
   youtube: 'channel/UCPvpimDq4MekCSV7ExMrCkw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
