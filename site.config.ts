@@ -10,17 +10,17 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Nik Kale | Home Page',
-  domain: 'connectwithnik.com',
+  domain: 'networknik.com',
   author: 'Nik Kale',
 
   // open graph metadata (optional)
-  description: 'For more information, visit my website at connectwithnik.com.',
+  description: 'For more information, visit my website at networknik.com.',
 
   // social usernames (optional)
   twitter: 'nickelnik',
-  github: 'nskale12',
+  //github: 'nskale12',
   linkedin: 'nikkale',
-  // newsletter: '#', // optional newsletter URL
+  newsletter: '#comingsoon', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
