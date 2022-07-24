@@ -14,14 +14,14 @@ export default siteConfig({
   author: 'Nik Kale',
 
   // open graph metadata (optional)
-  description: 'For more information, visit my website at networknik.com.',
+  description: 'For more information, visit my website at dabbleintech.com.',
 
   // social usernames (optional)
-  twitter: 'nickelnik',
+  twitter: 'dabbleintech',
   //github: 'nskale12',
-  linkedin: 'nikkale',
-  newsletter: '#comingsoon', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  //linkedin: 'nikkale',
+  newsletter: 'subscribe.dabbleintech.com', // optional newsletter URL
+  youtube: 'channel/UCPvpimDq4MekCSV7ExMrCkw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
